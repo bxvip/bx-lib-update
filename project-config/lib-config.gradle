@@ -1,0 +1,14 @@
+ext {
+
+    GROUP = "co.bxvip.android.lib"
+    localRepoPath = "file://${projectDir}/libs-pro-local-repo"
+    isLocalReop = true
+
+    libModelConfigs = [
+            "lib-update"            : [
+                    libName       : "lib-update",
+                    libVersionName: "1.0.1",
+                    libType       : "aar"
+            ]
+    ]
+}
