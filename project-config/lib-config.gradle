@@ -5,8 +5,8 @@ ext {
     isLocalReop = true
 
     libModelConfigs = [
-            "lib-update"            : [
-                    libName       : "lib-update",
+            "bx-lib-update"            : [
+                    libName       : "bx-lib-update",
                     libVersionName: "1.0.1",
                     libType       : "aar"
             ]

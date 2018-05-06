@@ -1,1 +1,1 @@
-include ':lib-update'
+include ':bx-lib-update'
