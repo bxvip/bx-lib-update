@@ -39,7 +39,7 @@ dependencies {
     compileOnly files(filedownloaderJar)
     compileOnly okhttp
     compileOnly "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
-    compileOnly 'com.github.bxvip:android-support:26.0.2.5'
+    compileOnly 'com.github.bxvip:android-support:26.0.2.11.4'
     compileOnly repluginplugin
 }
 
